@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Potential transfers</title>
+<style>
+  #paragraph { text-align: center;
+               Color: #F4D03F;
+               font-family: monospace;
+               background-color: #616A6B;
+               margin: 20px;
+               padding: 30px
+            }
+
+  .header{text-align:center;
+   font-family: Courier;
+   color: #F4D03F;
+ background-color:#616A6B;
+ margin: 20px;
+ padding: 10px;
+ opacity: 0.4
+}
+
+@media (min-width: 600px){
+p{
+  font-size: 1.2
+}
+}
+
+
+
+</style>
+
+
+
+
+
+    </head>
+
+    <body>
+      <h1 class= "header"> January Transfer Window </h1>
+      <div id="paragraph">
+    <p>The transfer market this season will be one of a kind, due to the confinements</p>
+    <p> of the Corona virus. We will most likely see a major lack of movement due to</P>
+    <p>the fear of the pandemic. Huge clubs like Barcelona, Real Madrid, Valencia </p>
+    <p> as well as Inter milan, have made it public that they will not Participate in </p>
+    <p> this seasons tranfer frenzy. </p>
+     </div>
+     <br/>
+    <h1> Players likely to leave their clubs</h1>
+
+    <div id= "List">
+
+    <ol>
+      <li>Jadon Sancho
+       <br/>
+        <img src="C:\Users\TaahaC\Downloads\Sancho.jpg" length="200px" width="200px">  </li>
+       <br/>
+      <li> Virgil Van Dijk
+       <br/><sup>source</sup>
+        <img src="C:\Users\TaahaC\Downloads\VVD.jpg"length= "200px" width="200px" </li>
+       <br/>
+      <li> Marcus Rashford
+       <br/>
+        <img src="C:\Users\TaahaC\Downloads\Rashford.jpg" length="200px" width="200px" </li>
+      <li> Tammy Abraham
+       <br/>
+         <img src="C:\Users\TaahaC\Downloads\Abraham.jpg" length="200px" width="200px" </li>
+    </div>
+
+
+    </ol>
+    <br/>
+
+    <a href="C:\Users\TaahaC\Desktop\HTML_3"> click here</a>
+
+
+    </body>
+</html>

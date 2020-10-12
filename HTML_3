@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Young Talent</title>
+
+        <style>
+
+        #pragraph {text-align: center;
+                     Color: #F4D03F;
+                     font-family: monospace;
+                     background-color: #616A6B;
+                     margin: 20px;
+                     padding: 30px}
+
+      #list{
+                   Color: #F4D03F;
+                   font-family: monospace;
+                   background-color: #616A6B;
+                   margin: 20px;
+                   padding: 30px}
+
+              h1{text-align:center;
+                font-family: Courier;
+                color: #F4D03F;
+                   background-color:#616A6B;
+                   margin: 20px;
+                   padding: 10px;
+                   opacity: 0.4}
+
+              h2{text-align:center;
+                font-family: Courier;
+                color: #F4D03F;
+                   background-color:#616A6B;
+                   margin: 20px;
+                   padding: 10px;
+                   opacity: 0.4}
+
+
+        </style>
+
+    </head>
+    <body>
+        <h1>Most Promising Young Talent</h1>
+      <br/>
+    <div id="paragraph">
+        <p>The players mentioned below have displayed exponential growth in the midst of last season.<p/>
+        <p>With a large number of goals as well as assists to the following players names it is no<p/>
+        <p>doubt that the torch will be passed on to each of them to carry out the footballing legacy<p/>
+   </div>
+      <br/>
+
+        <h2>Young talent per team</h2>
+        <div id="list">
+          <ul>
+           <li>Marcus Rashford</li>
+           <li>Jadon Sancho</li>
+           <li>Raheem Sterling</li>
+           <li>Trent Alexander Arnold</li>
+           <li>Andy Robertson</li>
+         </ul>
+       </div>
+         <br/>
+         <img src="C:\Users\TaahaC\Downloads\Ball.jpg" length="200px" width="200px">
+         <br/>
+
+           <a href="C:\Users\TaahaC\Desktop\HTML_4"> click here</a>
+    </body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tier List</title>
+    </head>
+<style>
+.grid{
+  background-color:  #F4D03F;
+  display: grid;
+  padding: 20px;
+  grid-column-gap: 20px;
+  grid-row-gap: 10px;
+  grid-template-columns: 200px 200px
+}
+
+.grid-item{
+  background-color: #616A6B;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+h1{text-align:center;
+ font-family: Courier;
+ color: #F4D03F;
+background-color:#616A6B;
+margin: 20px;
+padding: 10px;
+opacity: 0.4
+
+}
+
+</style>
+
+    <body>
+      <h1>Ways to become a better footballer</h1>
+    <div class="grid">
+      <div class="grid-item">Work harder than the competition</div>
+      <div class="grid-item">Maintain a healthy/ balanced diet</div>
+      <div class="grid-item">Intergrate a healthy routine</div>
+      <div class="grid-item">Give yourself positive affirmation</div>
+      <div class="grid-item">Dream bigger than your current state of affairs</div>
+      <div class="grid-item">Workout on a regular basis</div>
+      <div class="grid-item">Give yourself sufficient rest</div>
+      <div class="grid-item">Train for 5 days per week</div>
+      <div class="grid-item">Use your footballing idol as inspiration and motivation</div>
+      <div class="grid-item">Focus on the weak aspects of your game</div>
+      <div class="grid-item">Ensure that your boots are clean</div>
+      <div class="grid-item">Remember your reason for starting</div>
+
+
+
+    </body>
+</html>
